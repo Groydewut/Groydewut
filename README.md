@@ -36,12 +36,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Groydewut&show_icons=true&theme=github_dark)
 
 ---
 
 ## ⚡ Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](@megakittensenior)
+[![Portfolio-Site](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-website-lra3.onrender.com/?clckid=b002588b)
 
