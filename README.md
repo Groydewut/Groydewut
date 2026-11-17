@@ -72,9 +72,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Groydewut&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Groydewut&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
