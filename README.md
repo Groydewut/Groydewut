@@ -26,8 +26,6 @@
 
 - 💰 [CLIExpense](https://github.com/Groydewut/ProjecktExpense) — Fullstack expense tracker with user registration, JWT authentication, bcrypt password hashing and PostgreSQL. Includes user-specific data isolation and a web interface.
 
-- 📄 [Counter-DOCX](https://github.com/Groydewut/Counter-DOCX) — Go web application for estimating the number of pages in DOCX documents. Implements file validation, DOCX parsing, XML processing and HTTP file uploads.
-
 ### 🔹 Desktop Applications
 
 - ⏱️ [Go Timer](https://github.com/Groydewut/MyTimer) — Desktop countdown timer built with Go, Wails and Svelte. Includes pause, resume, presets, notifications and light/dark themes.
